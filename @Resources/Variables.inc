@@ -1,5 +1,5 @@
 [Variables]
-textName=venus rising
+textName=Voltaire
 textColor=255,255,255,255
 textStyle=Light
 textCase=Upper
@@ -8,18 +8,18 @@ textEffectColor=0,0,0,100
 AA=1
 
 ;Date
-textSizeDate=18
-lineHeightDate=22r
+textSizeDate=38
+lineHeightDate=46r
 
 ;Network
-textSizeNetwork=18
-lineHeightNetwork=22r
-middleSpaceNetwork=260r
+textSizeNetwork=26
+lineHeightNetwork=34r
+middleSpaceNetwork=220r
 
 ;System
-textSizeSystem=12
-lineHeightSystem=16r
-middleSpaceSystem=200r
+textSizeSystem=32
+lineHeightSystem=40r
+middleSpaceSystem=260r
 
 ;Time
-textSizeTime=40
+textSizeTime=80
